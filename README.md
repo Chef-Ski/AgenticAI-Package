@@ -1,20 +1,20 @@
-# `pip install agentic-core` 🧠  
+# `pip install agentic_core` 🧠  
 **AI-powered toolkit for scraping and generating tweets in a user's style.**
 
-`agentic-core` enables **tweet scraping** (without the Twitter API) and **AI-powered tweet generation**. This package is designed for developers looking to build intelligent AI agents for social media content analysis, simulation, and generation.
+`agentic_core` enables **tweet scraping** (without the Twitter API) and **AI-powered tweet generation**. This package is designed for developers looking to build intelligent AI agents for social media content analysis, simulation, and generation.
 
 ---
 
 ## 🚀 **Installation**  
-`agentic-core` requires **Python 3.7+**. To install:  
+`agentic_core` requires **Python 3.7+**. To install:  
 
 ```sh
-pip install agentic-core
+pip install agentic_core
 ```
 
 To upgrade to the latest version:
 ```sh
-pip install --upgrade agentic-core
+pip install --upgrade agentic_core
 ```
 
 ---
@@ -74,7 +74,7 @@ Generates **new tweets** in the same writing style as the provided user's past t
 ---
 
 ## 🌍 **Running the API Server**
-`agentic-core` provides a built-in Flask API for seamless integration.
+`agentic_core` provides a built-in Flask API for seamless integration.
 
 ### **Start the API Server**
 ```sh
@@ -123,8 +123,8 @@ export OPENAI_API_KEY="your_api_key_here"
 ## 🛠️ **Development Setup**
 ### **Clone the Repository**
 ```sh
-git clone https://github.com/your-username/agentic-core.git
-cd agentic-core
+git clone https://github.com/your-username/agentic_core.git
+cd agentic_core
 ```
 
 ### **Install Dependencies**
@@ -139,7 +139,7 @@ pytest tests/
 
 ---
 
-## 🚀 **Why Use `agentic-core`?**
+## 🚀 **Why Use `agentic_core`?**
 ✅ **No Twitter API required** – Scrape tweets **without** API keys.  
 ✅ **AI-Powered** – Generates **tweets in the same writing style** as a given user.  
 ✅ **Fast & Scalable** – Designed for **developers & AI projects**.  
@@ -159,7 +159,7 @@ For major changes, please open an issue first to discuss your proposal.
 ---
 
 ## 📝 **License**
-`agentic-core` is licensed under the **MIT License** – free for personal and commercial use.
+`agentic_core` is licensed under the **MIT License** – free for personal and commercial use.
 
 ---
 
@@ -171,5 +171,5 @@ Need help or have suggestions? Reach out via:
 
 ---
 
-### ⭐ **Like `agentic-core`? Consider giving it a star on GitHub!** ⭐
+### ⭐ **Like `agentic_core`? Consider giving it a star on GitHub!** ⭐
 
