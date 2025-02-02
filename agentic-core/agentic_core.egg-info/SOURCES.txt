@@ -1,0 +1,7 @@
+README.md
+setup.py
+agentic-core/agentic_core.egg-info/PKG-INFO
+agentic-core/agentic_core.egg-info/SOURCES.txt
+agentic-core/agentic_core.egg-info/dependency_links.txt
+agentic-core/agentic_core.egg-info/requires.txt
+agentic-core/agentic_core.egg-info/top_level.txt

@@ -1,0 +1,7 @@
+README.md
+setup.py
+agenticai/agenticai.egg-info/PKG-INFO
+agenticai/agenticai.egg-info/SOURCES.txt
+agenticai/agenticai.egg-info/dependency_links.txt
+agenticai/agenticai.egg-info/requires.txt
+agenticai/agenticai.egg-info/top_level.txt
