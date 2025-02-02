@@ -1,4 +1,4 @@
-# `agentic-core` 🧠  
+# `pip install agentic-core` 🧠  
 **AI-powered toolkit for scraping and generating tweets in a user's style.**
 
 `agentic-core` enables **tweet scraping** (without the Twitter API) and **AI-powered tweet generation**. This package is designed for developers looking to build intelligent AI agents for social media content analysis, simulation, and generation.
