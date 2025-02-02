@@ -1,8 +1,0 @@
-Flask
-Flask-CORS
-pyppeteer
-openai
-requests
-python-dotenv
-nest-asyncio
-asgiref
